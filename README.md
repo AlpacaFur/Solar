@@ -9,7 +9,7 @@ Download the latest release [here](https://github.com/AlpacaFur/Solar/releases/t
   - Solar lives in your tray menu so as not to clutter your desktop or taskbar with another window.
   - All of Solar's functions can be accessed by right-clicking on Solar's icon and choosing the appropriate option.
 - Switches theme at sunset
-  - The app uses (CoordinateSharp)[https://github.com/Tronald/CoordinateSharp] to dynamically calculate sunset and sunrise times at your location and switch your system and/or app themes accordingly.
+  - The app uses [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) to dynamically calculate sunset and sunrise times at your location and switch your system and/or app themes accordingly.
   - Solar can be configured to only switch one of the themes if preferred.
 - Provides convenient access to theme switching
   - Solar's menu allows quick switching between light mode and dark mode
