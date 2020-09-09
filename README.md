@@ -40,7 +40,7 @@ You probabaly haven't set your location yet right click on Solar's icon in the s
 First and foremost, your location data never leaves your computer and Solar does not collect any kind of analytics or data. Solar only uses your location to calculate when sunset and sunrise is, because they change time of day based on where you are physically on Earth.
 
 ### I found a bug!
-Thanks for making Solar a better app! (Create a new issue)[https://github.com/AlpacaFur/Solar/issues/new/choose] describing the problem and I'll get working on a fix! If you know how to write a WPF app in C#, then you can also submit a pull request if you prefer.
+Thanks for making Solar a better app! [Create a new issue](https://github.com/AlpacaFur/Solar/issues/new/choose) describing the problem and I'll get working on a fix! If you know how to write a WPF app in C#, then you can also submit a pull request if you prefer.
 
 ### I'd like to contribute!
 Thanks for making Solar a better app! Take a look in issues and see if there are any outstanding bugs or open feature requests and feel free to make a pull request implementing the bug fix or feature.
